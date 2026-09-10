@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
 
-![Schematic](images/Solar Tracker.png)
+![Schematic](images/Solar%20Tracker.png)
 An automated, self-sufficient dual-axis solar tracker engineered from scratch using **Bare-Metal C** on the **STM32G474RE** microcontroller. 
 
 This repository was developed as an exam project for the **Computer Architecture and Design** course. It demonstrates low-level hardware control (memory-mapped registers), advanced interrupt handling, and autonomous power management without relying on heavy abstraction layers like HAL.
